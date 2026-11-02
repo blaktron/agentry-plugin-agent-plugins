@@ -4,7 +4,7 @@ Agentry brings QuickAgents into your agent host. Search a registry, read a Quick
 
 This package is an [Agent Plugins 1.0.0](https://agent-plugins.org/specification)
 package: `plugin.json`, the `agentry` skill and the bundled Agentry MCP server
-0.6.1002 in `mcp.json`. It installs in every host that loads that format.
+0.7.0 in `mcp.json`. It installs in every host that loads that format.
 
 ## Install
 
